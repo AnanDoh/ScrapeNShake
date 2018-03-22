@@ -18,4 +18,6 @@ pip install -U textblob
 The output from the code
 
 
-![alt text](https://imgur.com/a/YtXpe)
+![screenshot](output.JPG)
+
+These were only two of the many outputs i recieved. 
